@@ -12,7 +12,7 @@ export default createStore({
     },
     getters: {
         getCounter(state) {
-            return state.counter > 0 ? state.counter : '数据异常 我爱某人'
+            return state.counter > 0 ? state.counter : '数据异常 我爱子豪'
         }
     },
 
